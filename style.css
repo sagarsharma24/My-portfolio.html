@@ -1,0 +1,22 @@
+*{
+    background-color: gainsboro;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    color: rgb(148, 42, 148);
+
+}
+h2{
+    text-align: center;
+    color: rgb(148, 42, 148);
+}
+ul{
+    display: flex;
+   justify-content: center;
+   justify-content: space-evenly;
+}
+a{
+    
+    text-decoration: none;
+}

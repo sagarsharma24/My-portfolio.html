@@ -1,0 +1,19 @@
+*{
+    background-color: gainsboro;
+    padding: 0;
+
+}
+h1{
+    color: rgb(138, 32, 138);
+    text-align: center;
+}
+address{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color:crimson;
+}
+p{
+    text-align: center;
+}
